@@ -1,1 +1,1 @@
-print("Meilleure formation de l'HISTOIRE grace a des formateurs de LEGENDE")
+print("Meilleure formation de l'HISTOIRE grace a des formateurs de LEGENDE (sauf un)")
